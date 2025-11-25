@@ -1,0 +1,20 @@
+{
+  "timestamp": "20251124_223113",
+  "input_shape": [
+    null,
+    48,
+    48,
+    1
+  ],
+  "output_classes": 7,
+  "class_names": [
+    "Angry",
+    "Disgust",
+    "Fear",
+    "Happy",
+    "Neutral",
+    "Sad",
+    "Surprise"
+  ],
+  "model_type": "Emotion Recognition CNN"
+}
